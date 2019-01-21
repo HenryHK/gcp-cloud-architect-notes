@@ -7,7 +7,7 @@ GCP offers Cloud IAM, which lets you manage access control by defining _who_ (id
 In Cloud IAM, you can grant access to __members__, which can be of the following types:
 
 * Google account - account of user
-* Service account - account of service
+* Service account - account of service (also a resource meanwhile)
 * Google group - account of group, no credentials to login
 * G Suite domain - like group
 * Cloud Identity domain - like GSuite but no access to GSuite
